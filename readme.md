@@ -25,7 +25,7 @@ Data is gathered from following sources:
 
 ## Key Insights from the Analysis
 
-> 1. Most of the dogs are not having any stage information still Pupper is the most common dog stage among the four. Very less people own floofer and puppo.
+1. Most of the dogs are not having any stage information still Pupper is the most common dog stage among the four. Very less people own floofer and puppo.
 2.  There is a positive correlation between favorite_count and retweet_count.
 3. Top 10 frequent dog breeds are golden retriever, labrador retriever, pembroke, chihuahua, pug, chow, samoyed, pomeranian, toy poodle, malamute. Among them golden retriever is the most common.
 4. The rating_numerator gradually increases upto 9 and the most common rating for a dog is 12, 10, and 11 after that comes 13. Though they are less but some very high numerator ratings also exist.
