@@ -4,11 +4,11 @@
 
 ## Introduction
 
-> In this project WeRateDogs Twitter data is wrangled to create interesting and trustworthy analyses and visualizations. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. Using Python and its libraries, data is gathered from a variety of sources and in a variety of formats, then it is assessed for its quality and tidiness, then neccessary cleaning is done.
+In this project WeRateDogs Twitter data is wrangled to create interesting and trustworthy analyses and visualizations. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. Using Python and its libraries, data is gathered from a variety of sources and in a variety of formats, then it is assessed for its quality and tidiness, then neccessary cleaning is done.
 
 ## Dataset
 
-> Data is gathered from following sources:
+Data is gathered from following sources:
 
 1. Enhanced Twitter Archive: The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything.
 2. Image Predictions File: After running every image in the WeRateDogs Twitter archive through a neural network that can classify breeds of dogs. The results are stored in a table full of image predictions. This data can be gathered from Udacity's web page
@@ -16,7 +16,7 @@
 
 ## Important points to focus while exploring data
 
-> 1. Which is the most common dog_stage that people own?
+1. Which is the most common dog_stage that people own?
 2. What is the relation between favorite_count and retweet_count?
 3. What is the most common rating_numerator for a dog?
 4. What are the 10 most frequent predicted dog breeds?
